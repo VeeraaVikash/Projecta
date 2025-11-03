@@ -33,9 +33,6 @@ Users can create, assign, prioritize, and track tasks seamlessly across stages �
 
 ---
 
-## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the repository
-```bash
 git clone https://github.com/<your-username>/projecta.git
 cd projecta
